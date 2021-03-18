@@ -1,4 +1,4 @@
-# Design-Patterns\
+# Design-Patterns
 DAY 1:\
 SESSION 1:DESIGN PATTERNS\
 SESSION 2: SOLID PRINCIPLES
